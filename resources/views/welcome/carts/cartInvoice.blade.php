@@ -342,7 +342,7 @@
                                                     </tr>
                                                     <tr>
                                                         <td colspan="3" style="text-align: end;">Grand Total</td>
-                                                        <td style="text-align: center;">{{ priceFormat($order->grand_total) }}</td>
+                                                        <td style="text-align: center;">{{ priceRoundFormat($order->grand_total) }}</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -352,6 +352,7 @@
                                     <div class="frozenTable">
                                         <div class="row">
                                             <div class="col-md-5">
+                                                <p><b>In Word:</b> {{ amountInWords($order->grand_total) }}</p>
                                                 <p>Note: {{$order->note}}</p>
                                             </div>
                                             <div class="col-md-7">

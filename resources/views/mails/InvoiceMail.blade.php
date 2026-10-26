@@ -82,9 +82,12 @@
                         </tr>
                         <tr>
                             <td colspan="4" style="text-align: end;">Grand Total</td>
-                            <td style="text-align: center;">{{ priceFullFormat($datas['order']->grand_total) }}</td>
+                            <td style="text-align: center;">@if(general()->currency_position==0) {{ general()->currency }} {{ priceRoundFormat($datas['order']->grand_total) }} @else {{ priceRoundFormat($datas['order']->grand_total) }} {{ general()->currency }} @endif</td>
                         </tr>
-                        
+                        <tr>
+                            <td colspan="5"><b>In Word:</b> {{ amountInWords($datas['order']->grand_total) }}</td>
+                        </tr>
+
                     </tbody>
                 </table>
                 <br />

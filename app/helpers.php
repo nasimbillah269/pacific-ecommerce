@@ -151,6 +151,43 @@ function priceFullFormat($amount=0)
   return $formatAmount;
 }
 
+// Invoice grand total: rounded to the nearest whole taka.
+function priceRoundFormat($amount=0)
+{
+  return number_format(round($amount));
+}
+
+// Rounded amount in words using the BD system (Crore/Lakh),
+// e.g. 6270.4 => "Six Thousand Two Hundred Seventy Taka Only".
+function amountInWords($amount=0)
+{
+  $number = (int) round(abs($amount));
+  if($number==0){
+    return 'Zero Taka Only';
+  }
+
+  return trim(numberToWords($number)).' Taka Only';
+}
+
+function numberToWords($n)
+{
+  $ones = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten',
+    'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen'];
+  $tens = ['', '', 'Twenty', 'Thirty', 'Forty', 'Fifty', 'Sixty', 'Seventy', 'Eighty', 'Ninety'];
+
+  if($n < 20){
+    return $ones[$n];
+  }
+  if($n < 100){
+    return trim($tens[intdiv($n, 10)].' '.$ones[$n % 10]);
+  }
+  foreach([[10000000, 'Crore'], [100000, 'Lakh'], [1000, 'Thousand'], [100, 'Hundred']] as [$div, $label]){
+    if($n >= $div){
+      return trim(numberToWords(intdiv($n, $div)).' '.$label.' '.numberToWords($n % $div));
+    }
+  }
+}
+
 function sendMail($toEmail,$toName,$subject,$datas,$template,$attachments=null){
 
 
