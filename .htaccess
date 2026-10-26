@@ -21,6 +21,16 @@
     # public/ files directly when they exist), which is what keeps "/public"
     # out of every URL both on localhost and after uploading as-is to cPanel.
 
+    # Serve real files (css, js, images...) from public/ without "/public" in
+    # the URL. APP_BASE is the folder this .htaccess lives in (detected from
+    # the URL), so this works at the domain root, in a sub folder
+    # (e.g. pacificnit.com/sub) and on localhost (/pacificnit) without change.
+    RewriteCond %{REQUEST_URI}::$1 ^(.*?/)(.*)::\2$
+    RewriteRule ^(.*)$ - [E=APP_BASE:%1]
+    RewriteCond $1 !^public/
+    RewriteCond %{DOCUMENT_ROOT}%{ENV:APP_BASE}public/$1 -f
+    RewriteRule ^(.*)$ public/$1 [L]
+
     # Laravel Routing Handler
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
