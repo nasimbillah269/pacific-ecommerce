@@ -1,0 +1,20 @@
+[16-Mar-2026 09:56:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: trim() expects at least 1 argument, 0 given in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php:1
+Stack trace:
+#0 /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php(1): trim()
+#1 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php on line 1
+[19-Mar-2026 20:52:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: trim() expects at least 1 argument, 0 given in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php:1
+Stack trace:
+#0 /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php(1): trim()
+#1 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php on line 1
+[30-May-2026 08:10:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: trim() expects at least 1 argument, 0 given in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php:1
+Stack trace:
+#0 /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php(1): trim()
+#1 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php on line 1
+[30-May-2026 08:10:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: trim() expects at least 1 argument, 0 given in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php:1
+Stack trace:
+#0 /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php(1): trim()
+#1 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/app-assets/vendors/css/forms/icheck/icheck/index.php on line 1

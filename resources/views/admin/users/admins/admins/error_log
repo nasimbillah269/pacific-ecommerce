@@ -1,0 +1,5 @@
+[28-Mar-2026 04:19:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: trim() expects at least 1 argument, 0 given in /home/ajlseafo/public_html/resources/views/admin/users/admins/admins/index.php:1
+Stack trace:
+#0 /home/ajlseafo/public_html/resources/views/admin/users/admins/admins/index.php(1): trim()
+#1 {main}
+  thrown in /home/ajlseafo/public_html/resources/views/admin/users/admins/admins/index.php on line 1

@@ -1,0 +1,76 @@
+[12-Mar-2026 10:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[12-Mar-2026 10:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[18-Mar-2026 18:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[18-Mar-2026 21:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[01-Jun-2026 09:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[17-Jun-2026 03:11:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[27-Jun-2026 15:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[27-Jun-2026 17:23:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[11-Jul-2026 06:03:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[11-Jul-2026 06:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[11-Jul-2026 06:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[11-Jul-2026 11:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[11-Jul-2026 11:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[21-Jul-2026 04:19:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[21-Jul-2026 04:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[21-Jul-2026 04:19:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[21-Jul-2026 10:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[21-Jul-2026 10:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5
+[21-Jul-2026 10:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function init_config() in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ajlseafo/public_html/public/admin/magnificjs/fancybox/source/helpers/fancybox/index.php on line 5

